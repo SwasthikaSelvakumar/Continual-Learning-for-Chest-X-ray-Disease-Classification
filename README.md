@@ -1,4 +1,4 @@
-#Continual Learning for Chest X-Ray Disease Classification
+## Continual Learning for Chest X-Ray Disease Classification
 
 ## Overview
 
